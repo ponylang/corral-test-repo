@@ -1,0 +1,8 @@
+{
+    "deps": [
+        {
+            "locator": "github.com/ponylang/corral-test-repo.git/bundle3"
+        }
+    ],
+    "info": {}
+}
